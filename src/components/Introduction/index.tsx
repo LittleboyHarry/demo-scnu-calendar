@@ -5,8 +5,8 @@ import { useScrollPercentage } from 'react-scroll-percentage';
 import { getAppState } from '../../AppState';
 import { motion, transform } from 'framer-motion';
 
-import { mapFirstImgScale, mapPosX, mapSecondImgScale, marks } from './movie-clip';
-import { IntroductionImageSources } from './assets';
+import { mapFirstImgScale, mapPosX, mapSecondImgScale, marks } from '../../movieclips';
+import { IntroductionImageSources } from '../../fragments.assets';
 
 import './index.scss';
 

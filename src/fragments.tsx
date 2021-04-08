@@ -140,7 +140,7 @@ export function Navbar() {
                   }}
                   style={{ float: 'left' }}
                 >
-                  <img src="logo.png" style={{ height: '1.75rem' }} />
+                  <img src="/ical/logo.png" style={{ height: '1.75rem' }} />
                 </Menu.Item>,
                 ...menuItems
               ]
